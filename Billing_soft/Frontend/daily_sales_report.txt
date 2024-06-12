@@ -1,0 +1,44 @@
+Bill Number: 1
+{'Sr no.': 1, 'Item name': 'aaa', 'Item code': '123', 'Quantity': 5, 'Price': 5.0, 'Taxes': 5.0, 'Total Without Taxes': 25.0, 'Bill Total': 26.25}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '456', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 3, 'Item name': 'ccc', 'Item code': '789', 'Quantity': 20, 'Price': 50.0, 'Taxes': 10.0, 'Total Without Taxes': 1000.0, 'Bill Total': 1100.0}
+Bill Total: 1231.25
+
+Bill Number: 1
+{'Sr no.': 1, 'Item name': 'xyz', 'Item code': '159', 'Quantity': 10, 'Price': 5.0, 'Taxes': 5.0, 'Total Without Taxes': 50.0, 'Bill Total': 52.5}
+{'Sr no.': 2, 'Item name': 'pqr', 'Item code': '753', 'Quantity': 50, 'Price': 500.0, 'Taxes': 10.0, 'Total Without Taxes': 25000.0, 'Bill Total': 27500.0}
+{'Sr no.': 3, 'Item name': 'cqr', 'Item code': '258', 'Quantity': 1, 'Price': 100.0, 'Taxes': 20.0, 'Total Without Taxes': 100.0, 'Bill Total': 120.0}
+Bill Total: 27672.5
+
+Bill Number: 1
+{'Sr no.': 1, 'Item name': 'aaa', 'Item code': '123', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '456', 'Quantity': 20, 'Price': 5.0, 'Taxes': 10.0, 'Total Without Taxes': 100.0, 'Bill Total': 110.0}
+{'Sr no.': 3, 'Item name': 'ccc', 'Item code': '789', 'Quantity': 50, 'Price': 2.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+Bill Total: 320.0
+
+Bill Number: 2
+{'Sr no.': 1, 'Item name': 'aaa', 'Item code': '123', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '456', 'Quantity': 20, 'Price': 5.0, 'Taxes': 10.0, 'Total Without Taxes': 100.0, 'Bill Total': 110.0}
+{'Sr no.': 3, 'Item name': 'ccc', 'Item code': '789', 'Quantity': 50, 'Price': 2.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+Bill Total: 320.0
+
+Bill Number: 1
+{'Sr no.': 1, 'Item name': 'abc', 'Item code': '133', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '111', 'Quantity': 5, 'Price': 5.0, 'Taxes': 5.0, 'Total Without Taxes': 25.0, 'Bill Total': 26.25}
+Bill Total: 131.25
+
+Bill Number: 2
+{'Sr no.': 1, 'Item name': 'abc', 'Item code': '133', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '111', 'Quantity': 5, 'Price': 5.0, 'Taxes': 5.0, 'Total Without Taxes': 25.0, 'Bill Total': 26.25}
+Bill Total: 131.25
+
+Bill Number: 1
+{'Sr no.': 1, 'Item name': 'aaa', 'Item code': '123', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '456', 'Quantity': 5, 'Price': 20.0, 'Taxes': 10.0, 'Total Without Taxes': 100.0, 'Bill Total': 110.0}
+Bill Total: 215.0
+
+Bill Number: 2
+{'Sr no.': 1, 'Item name': 'aaa', 'Item code': '123', 'Quantity': 10, 'Price': 10.0, 'Taxes': 5.0, 'Total Without Taxes': 100.0, 'Bill Total': 105.0}
+{'Sr no.': 2, 'Item name': 'bbb', 'Item code': '456', 'Quantity': 5, 'Price': 20.0, 'Taxes': 10.0, 'Total Without Taxes': 100.0, 'Bill Total': 110.0}
+Bill Total: 215.0
+
